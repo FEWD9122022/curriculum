@@ -203,7 +203,7 @@ Graduation Requirements
 | Lesson 16 (w8:d2)     |PetFinder Lab  |   N/A |
 
 **Zoom Link:**
-<a href="https://generalassembly.zoom.us/rec/share/vnOdbP54ZO-alDRV_HPgEVya19_NsOvEtZZnbSwYvFbYqJNx3ic8Y4bGZMXNz6Fx.zv05QRl056eoHXA4" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />Passcode: .3ek$Ney
+<a href="https://generalassembly.zoom.us/rec/share/t1AhJ3pXBC7jgoPeZWMpjjvoXhGgI8oQD0t4FmMtmE1xzTWqMbz6NSMfdLBQHkTH.AK_4aJQJ_eyy1bkr" target="_blank" rel="noopener noreferrer" >Click here to view recording</a><br />Passcode: .3ek$Ney
 
 
 
